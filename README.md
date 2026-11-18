@@ -58,7 +58,7 @@ can't be picked twice.
 
 ## Try it
 
-Open `index.html` in a browser (or the GitHub Pages link), then:
+**Live demo: https://d4smond.github.io/TipUni/** (or open `index.html` locally), then:
 
 1. Sign up with any `.ac.uk` email. The "demo inbox" shows your code.
 2. You'll already have one finished task waiting: confirm and pay it, then rate.
